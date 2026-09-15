@@ -165,14 +165,7 @@ Recommendations are generated at different temporal checkpoints, including **Wee
 
 ## Interactive Dashboard
 
-The results of the framework — including:
-
-* risk scores;
-* learner profiles;
-* recommendations;
-* model explanations;
-
-are made available through an interactive **Streamlit dashboard**.
+The results of the framework are made available through an interactive **Streamlit dashboard**.
 
 The dashboard provides an interface for exploring learner behavior and supporting pedagogical decision-making.
 
@@ -237,35 +230,11 @@ Model comparison experiments also included Random Forest and LightGBM.
 
 ---
 
-## Usage
-
-The notebooks are organized according to the main stages of the framework.
-
-Start with:
-
-```text
-01_Preprocessing.ipynb
-```
-
-and then follow the modeling and analysis notebooks.
-
-The interactive dashboard is available in a separate repository.
-
----
-
 ## Data Availability
 
 The original OULAD dataset is not included in this repository.
 
 Please refer to the OULAD documentation for information about the original dataset.
-
----
-
-## Related Repository
-
-### Interactive Dashboard
-
-The Streamlit dashboard developed for this project is available in a separate repository
 
 ---
 
