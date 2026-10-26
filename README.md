@@ -243,5 +243,5 @@ Please refer to the OULAD documentation for information about the original datas
 **Imane Rheffari**
 
 Master's Graduate in Big Data and Artificial Intelligence
-Interested in Data Science, Machine Learning and Artificial Intelligence.
+Interested in Data Science, Data Engineering, Data Analytics, and Artificial Intelligence.
 
